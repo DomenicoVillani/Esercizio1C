@@ -65,7 +65,7 @@ namespace EsercizioC_
         public int Age = 69;
         public string NameAzienda = "Poesie e liberta' ";
         public string RuoloAzienda = "CEO";
-        public int AnniEsperienza = 50;
+        public int AnniEsperienza = 51;
 
         public void GetInfo(){
             Console.WriteLine("Nome: " + Name + "; Eta': " + Age + "; None Azienda: " + NameAzienda + "; Ruolo Azienda: " + RuoloAzienda);
